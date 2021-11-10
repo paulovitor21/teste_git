@@ -1,2 +1,3 @@
 Arquivo que será alterado tanto no local como no remoto.
  - Linha que inseri na copia local.
+ - Linha que inseri na versão remota.
